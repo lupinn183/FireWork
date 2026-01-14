@@ -1,0 +1,7 @@
+{
+  "name": "Cây Đào Ngày Tết - Spring Wishes",
+  "description": "An interactive, beautifully animated Lunar New Year application featuring a digital peach blossom tree. Users can add branches with photos and wishes, enjoy fireworks, and generate AI-powered greetings.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
